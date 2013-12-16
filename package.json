@@ -1,11 +1,11 @@
 {
-  "name": "template",
-  "description": "wedata@GitHub/template",
+  "name": "UrlCleaner",
+  "description": "wedata@GitHub/UrlCleaner",
   "version": "0.1.0",
-  "homepage": "https://github.com/wedata/template",
+  "homepage": "https://github.com/wedata/UrlCleaner",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wedata/template.git"
+    "url": "https://github.com/wedata/UrlCleaner.git"
   },
   "devDependencies": {
     "grunt": "~0.4.2",
