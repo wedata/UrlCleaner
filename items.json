@@ -1,7 +1,16 @@
 [
 {
-  "name" : "",
+  "name" : "Google Analytics",
   "data" : {
+    "url"  : "^https?://[^?#]+[?#].*\\butm_(?:c(?:ampaign|ontent)|medium|source|term)\\b",
+    "kill" : "utm_campaign utm_content utm_medium utm_source utm_term"
+  }
+},
+{
+  "name" : "YouTube",
+  "data" : {
+    "url"  : "^https?://www\\.youtube\\.com/watch\\?",
+    "live" : "v hd skipcontrinter"
   }
 }
 ]
