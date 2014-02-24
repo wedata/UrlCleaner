@@ -1,5 +1,14 @@
 [
 {
+    "name": "NTTドコモ",
+    "data": {
+        "kill": "ref",
+        "url": "^https?://www\\.nttdocomo\\.co\\.jp/",
+        "live": "",
+        "exampleUrl": "https://www.nttdocomo.co.jp/service/convenience/insurance/medical_insurance/index.html?ref=rss"
+    }
+},
+{
   "name": "All About",
   "data": {
     "exampleUrl": "http://allabout.co.jp/matome/cl000000000460/?FM=tw_20131014_6",
