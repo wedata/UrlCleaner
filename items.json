@@ -1,12 +1,12 @@
 [
 {
-    "name": "NTTドコモ",
-    "data": {
-        "kill": "ref",
-        "url": "^https?://www\\.nttdocomo\\.co\\.jp/",
-        "live": "",
-        "exampleUrl": "https://www.nttdocomo.co.jp/service/convenience/insurance/medical_insurance/index.html?ref=rss"
-    }
+  "name": "NTTドコモ",
+  "data": {
+    "kill": "ref",
+    "url": "^https?://www\\.nttdocomo\\.co\\.jp/",
+    "live": "",
+    "exampleUrl": "https://www.nttdocomo.co.jp/service/convenience/insurance/medical_insurance/index.html?ref=rss"
+  }
 },
 {
   "name": "All About",
