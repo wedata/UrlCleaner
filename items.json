@@ -202,7 +202,7 @@
 {
   "name": "SlideShare",
   "data": {
-    "kill": "from src rel",
+    "kill": "from src rel ref",
     "url": "^http://www\\.slideshare\\.net/",
     "exampleUrl": "http://www.slideshare.net/setoazusa/ss-1037922?from=ss_embed"
   }
