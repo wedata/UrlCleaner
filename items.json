@@ -1,5 +1,13 @@
 [
 {
+  "name": "はてなキーワード",
+  "data": {
+    "url": "^http://d\\.hatena\\.ne\\.jp/keyword/.+",
+    "kill": "kid alias_redirect_referermode",
+    "exampleUrl": "http://d.hatena.ne.jp/keyword/Mt.Gox?kid=442354&alias_redirect_referer=442353"
+  }
+},
+{
   "name": "NTTドコモ",
   "data": {
     "kill": "ref",
