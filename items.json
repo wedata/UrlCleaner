@@ -72,7 +72,7 @@
 {
   "name": "日経ビジネスオンライン",
   "data": {
-    "kill": "mlt rt",
+    "kill": "mlt rt n_cid",
     "url": "^http://business\\.nikkeibp\\.co\\.jp/",
     "live": "",
     "exampleUrl": "http://business.nikkeibp.co.jp/article/world/20111004/223004/?mlt&rt=nocnt"
