@@ -235,7 +235,7 @@
 {
   "name": "PC Online",
   "data": {
-    "kill": "f set",
+    "kill": "f set rt",
     "url": "^http://pc\\.nikkeibp\\.co\\.jp/article/",
     "exampleUrl": "http://pc.nikkeibp.co.jp/article/knowhow/20100329/1023993/?f=topic http://pc.nikkeibp.co.jp/article/trend/20100330/1023996/?f=ranking http://pc.nikkeibp.co.jp/article/news/20100401/1024066/?set=rss "
   }
